@@ -1,1 +1,2 @@
 # Proyecto-Sistemas-Expertos
+El Funcionamiento de esta prueba se basa en una serie de preguntas cerradas. Las cuales tienen un diferente valor cada una, donde se valora el puntaje obtenido vs el valor del puntaje máximo, dependiendo de a cuanto equivale el valor de la puntuación obtenida, como se menciono las preguntas tienen valores distintos, esto debido a la gravedad o importancia del síntoma o situación. 
